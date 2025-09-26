@@ -18,10 +18,17 @@ $m = db();
 
 $m->query("CREATE TABLE IF NOT EXISTS factories_whitelist (
  id BIGINT UNSIGNED AUTO_INCREMENT,
- company_national_id VARCHAR(20), company_name_fa VARCHAR(300),
- active TINYINT, city_name VARCHAR(120), manufacturing_industry_type VARCHAR(160),
- production_site_type VARCHAR(160), normalized_hash BINARY(16), raw_import_batch VARCHAR(32),
- extra_data LONGTEXT, created_at TIMESTAMP NULL DEFAULT CURRENT_TIMESTAMP, updated_at TIMESTAMP NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
+ company_national_id VARCHAR(20),
+ company_name_fa VARCHAR(300),
+ active TINYINT,
+ city_name VARCHAR(120),
+ manufacturing_industry_type VARCHAR(160),
+ production_site_type VARCHAR(160),
+ normalized_hash BINARY(16),
+ raw_import_batch VARCHAR(32),
+ extra_data LONGTEXT,
+ created_at TIMESTAMP NULL DEFAULT CURRENT_TIMESTAMP,
+ updated_at TIMESTAMP NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,
  PRIMARY KEY(id),
  UNIQUE KEY uq_nat (company_national_id),
  KEY idx_name (company_name_fa(150)),
@@ -29,6 +36,15 @@ $m->query("CREATE TABLE IF NOT EXISTS factories_whitelist (
  KEY idx_industry (manufacturing_industry_type),
  KEY idx_site_type (production_site_type)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4");
+
+if(!function_exists('normalize_id')) {
+    function normalize_id($str) {
+        if($str === null) return '';
+        $str = trim($str);
+        $str = preg_replace('/\D/', '', $str);
+        return $str;
+    }
+}
 
 $inserted=0; $updated=0; $skipped=0; $errors=0;
 foreach($rows as $row){
@@ -56,7 +72,16 @@ foreach($rows as $row){
             manufacturing_industry_type=VALUES(manufacturing_industry_type), production_site_type=VALUES(production_site_type),
             raw_import_batch=VALUES(raw_import_batch), extra_data=VALUES(extra_data)";
     $stmt=$m->prepare($sql);
-    $stmt->bind_param('ssisssss',$company_national_id,$company_name_fa,$active,$city_name,$manufacturing_industry_type,$production_site_type,$batch,$extra_data);
+    $stmt->bind_param('ssisssss',
+        $company_national_id,
+        $company_name_fa,
+        $active,
+        $city_name,
+        $manufacturing_industry_type,
+        $production_site_type,
+        $batch,
+        $extra_data
+    );
     if(!$stmt->execute()){ $errors++; continue; }
     if($stmt->affected_rows===1) $inserted++; else $updated++;
 }
@@ -67,3 +92,4 @@ echo json_encode([
   'errors'=>$errors,
   'batch'=>$batch
 ],JSON_UNESCAPED_UNICODE);
+?>

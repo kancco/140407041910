@@ -1,300 +1,364 @@
-[26-Sep-2025 14:04:51 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:04:51 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:04:51 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:04:51 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:04:51 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:04:51 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:04:52 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:04:52 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:04:52 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:04:52 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:04:52 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:04:52 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:04:52 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:04:52 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:04:52 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:04:52 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:06:07 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:06:07 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:06:07 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:06:07 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:37 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:37 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:37 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:37 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:37 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:37 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:37 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:37 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:37 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:37 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:37 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:37 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:37 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:37 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:37 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:37 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:37 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:37 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:37 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:37 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:37 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:37 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:37 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:37 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:37 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:37 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:38 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:39 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:39 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:39 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:39 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:09:39 UTC] PHP Fatal error:  Cannot redeclare json_fatal_guard() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php:6) in /home/kancir/cosmetics.kanc.ir/public/api/_db.php on line 43
-[26-Sep-2025 14:22:28 UTC] PHP Notice:  Undefined variable: db in /home/kancir/cosmetics.kanc.ir/public/api/import_whitelist.php on line 26
-[26-Sep-2025 14:22:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/kancir/cosmetics.kanc.ir/public/api/import_whitelist.php:26
+[26-Sep-2025 18:07:46 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:46 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:46 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:46 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:47 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:47 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:47 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:47 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:47 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:47 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:47 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:48 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:48 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:48 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:48 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:48 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:48 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:48 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:48 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:48 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:48 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:48 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:48 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:48 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:48 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:48 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:49 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:49 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:49 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:49 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:49 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:49 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:49 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:49 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:50 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:50 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:50 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:51 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:51 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:51 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:51 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:52 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:52 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:52 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:52 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:53 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:53 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:53 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:53 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:53 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:53 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:54 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:54 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:54 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:54 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:54 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:54 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:54 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:54 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:54 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:54 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:54 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:54 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:54 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:54 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:54 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:55 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:55 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:55 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:55 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:55 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:55 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:55 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:55 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:55 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:55 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:55 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:55 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:55 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:56 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:56 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:56 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:57 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:57 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:57 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:58 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:07:58 UTC] PHP Fatal error:  Cannot redeclare normalize_id() (previously declared in /home/kancir/cosmetics.kanc.ir/public/api/import_source.php:41) in /home/kancir/cosmetics.kanc.ir/public/api/_normalize.php on line 13
+[26-Sep-2025 18:10:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/search_source.php:50
 Stack trace:
 #0 {main}
-  thrown in /home/kancir/cosmetics.kanc.ir/public/api/import_whitelist.php on line 26
-[26-Sep-2025 14:25:10 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:10 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:10 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:10 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:10 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:10 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:11 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:11 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:11 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:11 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:11 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:11 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:11 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:11 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:11 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:11 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:11 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:11 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:11 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:11 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:11 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:11 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:11 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:11 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:11 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:11 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:11 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:11 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:12 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:12 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:12 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:12 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:12 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:12 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:12 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:12 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:12 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:12 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:12 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:12 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:12 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:12 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:12 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:12 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:12 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:12 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:12 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:12 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:13 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:13 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:13 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:13 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:13 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:13 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:13 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:13 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:13 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:13 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:13 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:13 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:13 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:13 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:13 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:13 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:13 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:13 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:13 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:13 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:13 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:13 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:13 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:13 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:13 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:13 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:14 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:14 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:14 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:14 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:14 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:14 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:14 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:14 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:14 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:14 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:14 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:14 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:14 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:14 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:14 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:14 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:25:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:27:33 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:27:33 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:27:33 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:27:33 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:27:33 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:27:33 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:27:33 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:27:33 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:27:33 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:27:33 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:27:33 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:27:33 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:27:33 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:27:33 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:27:33 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:27:33 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:27:33 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:27:33 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:27:33 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:27:33 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:27:33 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:27:33 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:27:33 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:27:33 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:27:33 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:27:33 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:27:33 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:27:33 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:27:33 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:27:33 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:27:33 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:27:33 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:27:33 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:27:33 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:27:33 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:27:33 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:27:33 UTC] PHP Warning:  require_once(/home/kancir/cosmetics.kanc.ir/public/api/db.php): failed to open stream: No such file or directory in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
-[26-Sep-2025 14:27:33 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/kancir/cosmetics.kanc.ir/public/api/db.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/kancir/cosmetics.kanc.ir/public/api/import_factories.php on line 3
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/search_source.php on line 50
+[26-Sep-2025 18:10:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/search_source.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/search_source.php on line 50
+[26-Sep-2025 18:13:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/search_source.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/search_source.php on line 50
+[26-Sep-2025 18:14:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/search_source.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/search_source.php on line 50
+[26-Sep-2025 18:15:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/search_source.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/search_source.php on line 50
+[26-Sep-2025 19:38:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/search_source.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/search_source.php on line 50
+[26-Sep-2025 19:39:16 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, first array member is not a valid class name or object in /home/kancir/cosmetics.kanc.ir/public/api/search_source.php on line 48
+[26-Sep-2025 19:39:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/search_source.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/search_source.php on line 50
+[26-Sep-2025 19:49:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/search_source.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/search_source.php on line 50
+[26-Sep-2025 19:49:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/search_source.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/search_source.php on line 50
+[26-Sep-2025 19:49:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/search_source.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/search_source.php on line 50
+[26-Sep-2025 19:49:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/search_source.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/search_source.php on line 50
+[26-Sep-2025 19:53:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/search_source.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/search_source.php on line 50
+[26-Sep-2025 20:06:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 16
+[26-Sep-2025 20:06:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 16
+[26-Sep-2025 20:06:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 16
+[26-Sep-2025 20:06:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 16
+[26-Sep-2025 20:06:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 16
+[26-Sep-2025 20:06:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 16
+[26-Sep-2025 20:06:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 16
+[26-Sep-2025 20:06:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 16
+[26-Sep-2025 20:06:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 16
+[26-Sep-2025 20:06:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 16
+[26-Sep-2025 20:06:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 16
+[26-Sep-2025 20:06:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 16
+[26-Sep-2025 20:06:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 16
+[26-Sep-2025 20:07:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 16
+[26-Sep-2025 20:07:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 16
+[26-Sep-2025 20:07:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 16
+[26-Sep-2025 20:07:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 16
+[26-Sep-2025 20:07:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 16
+[26-Sep-2025 20:07:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 16
+[26-Sep-2025 20:07:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 16
+[26-Sep-2025 20:07:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 16
+[26-Sep-2025 20:07:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 16
+[26-Sep-2025 20:07:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 16
+[26-Sep-2025 20:07:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 16
+[26-Sep-2025 20:07:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 16
+[26-Sep-2025 20:07:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 19
+[26-Sep-2025 20:08:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 19
+[26-Sep-2025 20:14:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 33
+[26-Sep-2025 20:14:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 33
+[26-Sep-2025 20:14:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 33
+[26-Sep-2025 20:14:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 33
+[26-Sep-2025 20:14:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 33
+[26-Sep-2025 20:14:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 33
+[26-Sep-2025 20:14:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 33
+[26-Sep-2025 20:14:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 33
+[26-Sep-2025 20:14:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 33
+[26-Sep-2025 20:14:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 33
+[26-Sep-2025 20:14:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 33
+[26-Sep-2025 20:14:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 33
+[26-Sep-2025 20:14:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 33
+[26-Sep-2025 20:14:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 33
+[26-Sep-2025 20:14:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 33
+[26-Sep-2025 20:14:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 33
+[26-Sep-2025 20:14:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 33
+[26-Sep-2025 20:14:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 33
+[26-Sep-2025 20:14:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 33
+[26-Sep-2025 20:14:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 33
+[26-Sep-2025 20:14:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 33
+[26-Sep-2025 20:14:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 33
+[26-Sep-2025 20:15:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 40
+[26-Sep-2025 20:15:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 40
+[26-Sep-2025 20:16:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 40
+[26-Sep-2025 20:16:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 40
+[26-Sep-2025 20:16:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 40
+[26-Sep-2025 20:16:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 40
+[26-Sep-2025 20:17:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 43
+[26-Sep-2025 20:17:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 43

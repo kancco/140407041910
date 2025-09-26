@@ -26,48 +26,44 @@ const FIELD_SETS = {
     {key:'address_fa',label:'آدرس',aliases:['نشانی','address']},
     {key:'postal_code',label:'کد پستی',aliases:['postal code','zip']},
     {key:'phone_raw',label:'تلفن',aliases:['phone','tel','شماره تماس']},
+    {key:'email',label:'ایمیل',aliases:['email']},
+    {key:'website',label:'وب‌سایت',aliases:['website']},
     {key:'manager_name_fa',label:'مدیرعامل',aliases:['ceo']},
     {key:'manager_national_id',label:'کدملی مدیرعامل',aliases:['manager national id']},
+    {key:'company_name_en',label:'نام انگلیسی شرکت',aliases:['english name']},
     {key:'company_type_fa',label:'نوع شرکت',aliases:['company type']},
     {key:'country_name_fa',label:'کشور',aliases:['country']},
     {key:'gln_code',label:'GLN',aliases:['gln']},
-    {key:'email',label:'ایمیل',aliases:['email']},
   ],
   source: [
+    {key:'university_name_fa', label:'نام دانشگاه',aliases:[]},
     {key:'source_code',label:'کد منبع',aliases:['شماره پروانه بهره برداری'],required:true},
     {key:'file_number',label:'شماره پرونده',aliases:[]},
-    {key:'university_name_fa',label:'نام دانشگاه',aliases:[]},
-    {key:'deputy_name_fa',label:'نام معاونت',aliases:[]},
-    {key:'domain_fa',label:'حوزه',aliases:[]},
-    {key:'license_holder_name_fa',label:'نام صاحب پروانه',aliases:[]},
-    {key:'manufacturer_name_fa',label:'نام واحد تولیدی',aliases:[]},
-    {key:'company_national_id',label:'شناسه ملی واحد تولیدی',aliases:[]},
-    {key:'national_id',label:'شناسه ملی مرتبط',aliases:['شناسه ملی (عمومی / مرتبط)']},
-    {key:'group_category',label:'گروه مرتبط با منبع',aliases:[]},
-    {key:'manufacturing_industry_type',label:'نوع صنعت تولیدی',aliases:[]},
-    {key:'product_type_fa',label:'نوع فرآورده',aliases:[]},
-    {key:'license_type_fa',label:'نوع پروانه',aliases:[]},
-    {key:'license_amend_reason_fa',label:'علت اصلاح پروانه',aliases:[]},
-    {key:'status_fa',label:'وضعیت',aliases:[]},
-    {key:'license_issue_note_fa',label:'صدور پروانه',aliases:[]},
-    {key:'production_line_name_fa',label:'نام خط تولید',aliases:[]},
-    {key:'production_lines_list_fa',label:'خطوط تولیدی (لیست)',aliases:['خطوط تولیدی']},
-    {key:'production_line_type',label:'نوع خط تولید',aliases:[]},
-    {key:'line_group_category',label:'گروه خط',aliases:['گروه و دسته مرتبط با خط']},
+    {key:'production_site_name_fa',label:'نام فارسی سایت تولیدی',aliases:[]},
+    {key:'production_site_country_fa',label:'نام کشور سایت تولیدی',aliases:[]},
     {key:'production_site_type',label:'نوع سایت تولیدی',aliases:[]},
-    {key:'site_activity_type',label:'نوع فعالیت‌های سایت',aliases:[]},
-    {key:'production_site_name_fa',label:'نام سایت تولیدی',aliases:[]},
-    {key:'production_site_country_fa',label:'کشور سایت تولیدی',aliases:[]},
-    {key:'branch_name_fa',label:'نام شعبه',aliases:[]},
+    {key:'site_type',label:'نوع سایت',aliases:[]},
+    {key:'site_activity_type',label:'نوع فعالیت های سایت',aliases:[]},
+    {key:'license_holder_name_fa',label:'نام شرکت',aliases:[]},
+    {key:'company_national_id',label:'کد ملی شرکت',aliases:[]},
+    {key:'manufacturer_name_fa',label:'نام واحد تولیدی',aliases:[]},
+    {key:'national_id',label:'شناسه ملی واحد تولیدی',aliases:['شناسه ملی (عمومی / مرتبط)']},
+    {key:'branch_name_fa',label:'نام فارسی شعبه',aliases:[]},
     {key:'branch_type',label:'نوع شعبه',aliases:[]},
-    {key:'city_name',label:'شهر',aliases:[]},
-    {key:'created_datetime_raw',label:'تاریخ ایجاد رکورد',aliases:[]},
-    {key:'request_register_datetime_raw',label:'تاریخ ثبت درخواست',aliases:[]},
-    {key:'final_fix_datetime_raw',label:'تاریخ رفع نقص نهایی',aliases:[]},
+    {key:'production_line_name_fa',label:'نام فارسی خط تولید',aliases:[]},
+    {key:'production_line_type',label:'نوع خط تولید',aliases:[]},
+    {key:'group_category',label:'گروه و دسته مرتبط با خط',aliases:[]},
+    {key:'line_group_category',label:'گروه و دسته مرتبط با منبع',aliases:[]},
+    {key:'status_fa',label:'وضعیت',aliases:[]},
+    {key:'license_type_fa',label:'نوع پروانه (اختیاری)',aliases:[]},
     {key:'technical_committee_datetime_raw',label:'تاریخ کمیته فنی',aliases:['تاریخ کمیته']},
+    {key:'technical_committee_number',label:'شماره کمیته فنی',aliases:[]},
     {key:'issue_datetime_raw',label:'تاریخ صدور',aliases:[]},
     {key:'expire_datetime_raw',label:'تاریخ انقضا',aliases:[]},
-    {key:'validity_duration_text',label:'مدت اعتبار',aliases:[]}
+    {key:'request_register_datetime_raw',label:'تاریخ ثبت درخواست',aliases:[]},
+    {key:'final_fix_datetime_raw',label:'تاریخ رفع نقص نهایی',aliases:[]},
+    {key:'validity_duration_text',label:'مدت اعتبار',aliases:[]},
+    {key:'review_duration_days',label:'مدت زمان بررسی',aliases:[]}
   ],
   tech: [
     {key:'full_name_fa',label:'نام و نام خانوادگی',aliases:['نام مسئول فنی'],required:true},
@@ -104,7 +100,7 @@ const FIELD_SETS = {
     {key:'serial_number_fa',label:'س. شماره',aliases:['س شماره']},
     {key:'serial_date_raw',label:'س. تاریخ',aliases:['س تاریخ']},
     {key:'validity_duration_text',label:'مدت اعتبار',aliases:[]},
-    {key:'review_first_action_duration_text',label:'مدت زمان بررسی',aliases:['مدت زمان بررسی و اولین اقدام']}
+    {key:'review_first_action_duration_text',label:'مدت زمان بررسی و اولین اقدام',aliases:['مدت زمان بررسی']}
   ],
   irc: [
     {key:'irc_code',label:'IRC',aliases:[],required:true},
@@ -137,7 +133,6 @@ const FIELD_SETS = {
   whitelist: [
     {key:'company_national_id',label:'شناسه ملی شرکت',aliases:['شناسه ملی','کد ملی شرکت'],required:true},
     {key:'company_name_fa',label:'نام شرکت',aliases:['نام کارخانه','factory name'],required:true},
-    /* تغییر: برچسب فعال -> وضعیت */
     {key:'active',label:'وضعیت',aliases:['active','فعال']},
     {key:'city_name',label:'شهر',aliases:[]},
     {key:'manufacturing_industry_type',label:'نوع صنعت تولیدی',aliases:[]},
@@ -145,19 +140,16 @@ const FIELD_SETS = {
   ]
 };
 
-/* -------------------- State -------------------- */
-let workbook=null;
-let headers=[];
-let rawRows=[];
-let mapping={};
-let manualLock={};
+let workbook = null;
+let headers = [];
+let rawRows = [];
+let mapping = {};
+let manualLock = {};
 
-/* Logging */
 function log(m){ els.log.textContent+=m+"\n"; els.log.scrollTop=els.log.scrollHeight; }
 function clearLog(){ els.log.textContent=''; }
 els.clear.addEventListener('click',clearLog);
 
-/* Helpers */
 function sanitizeHeader(h){
   if(h==null)return '';
   let s=String(h);
@@ -168,7 +160,6 @@ function sanitizeHeader(h){
 }
 function normKey(s){ return sanitizeHeader(s).toLowerCase(); }
 
-/* File handling */
 els.file.addEventListener('change',async ()=>{
   resetAfterFile();
   const f=els.file.files[0];
@@ -368,7 +359,7 @@ async function sendInChunks(dataset,rows){
   const endpoint=API[dataset];
   if(!endpoint){ log('Endpoint ناشناخته برای '+dataset); return; }
   const batch=els.batch.value.trim()||Date.now();
-  const CHUNK=1000;
+  const CHUNK=100;
   log(`ارسال ${rows.length} رکورد ...`);
   for(let i=0;i<rows.length;i+=CHUNK){
     els.status.textContent=`${i+1}-${Math.min(i+CHUNK,rows.length)}/${rows.length}`;

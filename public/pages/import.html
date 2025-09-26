@@ -1,92 +1,98 @@
 <!DOCTYPE html>
-<html lang="fa" dir="rtl" class="vf-on">
+<html lang="fa" dir="rtl">
 <head>
-<meta charset="UTF-8">
-<title>ایمپورت داده</title>
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<link rel="preload" href="../assets/fonts/Vazirmatn[wght].woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="../assets/css/theme-typography.css?v=1">
-<link rel="stylesheet" href="../assets/css/import.css?v=7">
+  <meta charset="UTF-8">
+  <title>پنل ایمپورت داده</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <!-- مسیرهای صحیح CSS از public/assets/css -->
+  <link rel="stylesheet" href="/assets/css/theme-typography.css">
+  <link rel="stylesheet" href="/assets/css/header-footer.css">
+  <link rel="stylesheet" href="/assets/css/import.css?v=7">
 </head>
 <body>
-<nav class="navbar">
-  <span class="brand">سامانه نظارت</span>
-  <a class="nav-link" href="../index.html">خانه</a>
-  <a class="nav-link" href="search.html">جستجو</a>
-  <a class="nav-link" href="reports.html">گزارش</a>
-  <a class="nav-link" href="whitelist.html">وایت‌لیست</a>
-</nav>
+  <!-- بارگذاری منوی بالای مشترک از public/pages/navbar.html -->
+  <div id="navbar"></div>
 
-<main class="wrapper">
-  <section class="panel">
-    <div class="form-grid">
-      <div>
-        <label for="dataset">دیتاست</label>
-        <select id="dataset">
-          <option value="factories">کارخانه</option>
-          <option value="source">ثبت منبع</option>
-          <option value="tech">مسئول فنی</option>
-          <option value="irc">IRC</option>
-          <option value="whitelist">Whitelist</option>
-        </select>
+  <header class="topbar"><h1>ایمپورت داده</h1></header>
+
+  <main class="wrapper">
+    <section class="panel">
+      <div class="form-grid">
+        <div>
+          <label for="dataset">دیتاست</label>
+          <select id="dataset">
+            <option value="factories">کارخانه</option>
+            <option value="source">ثبت منبع</option>
+            <option value="tech">مسئول فنی</option>
+            <option value="irc">IRC</option>
+            <option value="whitelist">Whitelist</option>
+          </select>
+        </div>
+        <div>
+          <label for="file">فایل (CSV / XLSX)</label>
+          <input type="file" id="file" accept=".csv,.xls,.xlsx">
+        </div>
+        <div>
+          <label for="sheetSelect">Sheet</label>
+          <select id="sheetSelect" disabled></select>
+        </div>
+        <div>
+          <label for="batchId">Batch ID</label>
+          <input type="text" id="batchId" placeholder="خالی=زمان">
+        </div>
+        <div style="display:flex;align-items:flex-end;gap:6px;">
+          <button id="autoMapBtn" type="button" class="btn-secondary">Auto-map</button>
+          <button id="clearBtn" type="button" class="btn-light">پاک لاگ</button>
+        </div>
       </div>
-      <div>
-        <label for="file">فایل (CSV / XLSX)</label>
-        <input type="file" id="file" accept=".csv,.xls,.xlsx">
+    </section>
+
+    <section class="panel">
+      <label for="extraData">extra_data JSON (اختیاری)</label>
+      <textarea id="extraData" placeholder='{"source":"manual"}'></textarea>
+    </section>
+
+    <section class="panel actions">
+      <button id="startBtn" class="btn-primary" type="button">شروع ایمپورت</button>
+      <span id="status" class="status"></span>
+    </section>
+
+    <section class="panel">
+      <h2>مپ فیلدهای دیتاست → ستون فایل</h2>
+      <div id="mappingArea" class="mapping-area-dataset"></div>
+      <div id="unusedWrapper" style="margin-top:14px;">
+        <strong>ستون‌های فایل بدون استفاده:</strong>
+        <div id="unusedHeaders" style="font-size:12px;color:#555;line-height:1.6;"></div>
       </div>
-      <div>
-        <label for="sheetSelect">Sheet</label>
-        <select id="sheetSelect" disabled></select>
+    </section>
+
+    <section class="panel">
+      <h2>پیش‌نمایش (۱۰ ردیف اول فایل)</h2>
+      <div class="table-scroll">
+        <table id="preview"><thead></thead><tbody></tbody></table>
       </div>
-      <div>
-        <label for="batchId">Batch ID</label>
-        <input type="text" id="batchId" placeholder="خالی=زمان">
-      </div>
-      <div style="display:flex;align-items:flex-end;gap:6px;">
-        <button id="autoMapBtn" type="button" class="btn-secondary">Auto-map</button>
-        <button id="clearBtn" type="button" class="btn-light">پاک لاگ</button>
-      </div>
-    </div>
-  </section>
+    </section>
 
-  <section class="panel">
-    <label for="extraData">extra_data JSON (اختیاری)</label>
-    <textarea id="extraData" placeholder='{"source":"manual"}'></textarea>
-  </section>
+    <section class="panel">
+      <h2>نتیجه / لاگ</h2>
+      <pre id="log" class="log"></pre>
+    </section>
+  </main>
 
-  <section class="panel actions">
-    <button id="startBtn" class="btn-primary" type="button">شروع ایمپورت</button>
-    <span id="status" class="status"></span>
-  </section>
+  <!-- بارگذاری فوتر مشترک از public/pages/footer.html -->
+  <div id="footer"></div>
 
-  <section class="panel">
-    <h2>مپ فیلدهای دیتاست → ستون فایل</h2>
-    <div id="mappingArea" class="mapping-area-dataset"></div>
-    <div id="unusedWrapper" style="margin-top:14px;">
-      <strong>ستون‌های فایل بدون استفاده:</strong>
-      <div id="unusedHeaders" style="font-size:12px;color:#555;line-height:1.6;"></div>
-    </div>
-  </section>
-
-  <section class="panel">
-    <h2>پیش‌نمایش (۱۰ ردیف اول فایل)</h2>
-    <div class="table-scroll">
-      <table id="preview"><thead></thead><tbody></tbody></table>
-    </div>
-  </section>
-
-  <section class="panel">
-    <h2>نتیجه / لاگ</h2>
-    <pre id="log" class="log"></pre>
-  </section>
-</main>
-
-<footer class="footer-copy">
-  <div>© ۱۴۰۴ دانشگاه علوم پزشکی مازندران – تمامی حقوق مادی و معنوی سامانه مدیریت نظارت بر مواد غذایی، آرایشی و بهداشتی محفوظ است.</div>
-  <div>طراحی و توسعه: مهندس مهدی خدادادی سلوط</div>
-</footer>
-<script src="../assets/js/xlsx.full.min.js"></script>
-<script src="../assets/js/importer.js?v=7"></script>
-<script type="module" src="../assets/js/ui-common.js"></script>
+  <script src="/assets/js/xlsx.full.min.js"></script>
+  <script src="/assets/js/importer.js?v=7"></script>
+  <script>
+    function loadComponent(id, url) {
+      fetch(url)
+        .then(resp => resp.text())
+        .then(html => document.getElementById(id).innerHTML = html)
+        .catch(() => document.getElementById(id).innerHTML = "<div style='color:red;'>مشکل بارگذاری...</div>");
+    }
+    loadComponent('navbar', '/pages/navbar.html');
+    loadComponent('footer', '/pages/footer.html');
+  </script>
 </body>
 </html>

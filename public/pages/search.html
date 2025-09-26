@@ -1,56 +1,88 @@
 <!DOCTYPE html>
 <html lang="fa" dir="rtl" class="vf-on">
 <head>
-<meta charset="UTF-8">
-<title>جستجوی داده‌ها</title>
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<link rel="preload" href="../assets/fonts/Vazirmatn[wght].woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="../assets/css/theme-typography.css?v=1">
+  <meta charset="UTF-8">
+  <title>جستجوی داده‌ها</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="preload" href="/assets/fonts/Vazirmatn[wght].woff2" as="font" type="font/woff2" crossorigin>
+  <!-- استایل مدرن و حرفه‌ای مخصوص سرچ -->
+  <link rel="stylesheet" href="/assets/css/theme-typography.css?v=1">
+  <link rel="stylesheet" href="/assets/css/header-footer.css">
+  <link rel="stylesheet" href="/assets/css/search-modern.css">
 </head>
 <body>
-<nav class="navbar">
-  <span class="brand">سامانه نظارت</span>
-  <a class="nav-link" href="../index.html">خانه</a>
-  <a class="nav-link" href="import.html">ایمپورت</a>
-  <a class="nav-link" href="reports.html">گزارش</a>
-  <a class="nav-link" href="whitelist.html">وایت‌لیست</a>
-</nav>
+  <!-- منوی بالا از فایل مشترک -->
+  <div id="navbar"></div>
 
-<section class="surface">
-  <h1 class="gradient-text">جستجو</h1>
-  <p class="lead">جستجو در چهار دیتاست. در صورت فعال بودن گزینه آخرین نسخه، ویوهای v_latest_* استفاده می‌شود.</p>
+  <section class="surface">
+    <h1 class="gradient-text">جستجو</h1>
+    <p class="lead">جستجو در چهار دیتاست. در صورت فعال بودن گزینه آخرین نسخه، ویوهای v_latest_* استفاده می‌شود.</p>
 
-  <div class="tabs" style="margin-bottom:14px;">
-    <button class="active" data-tab="factories">کارخانه‌ها</button>
-    <button data-tab="source">ثبت منبع</button>
-    <button data-tab="tech">مسئول فنی</button>
-    <button data-tab="irc">IRC</button>
-  </div>
-
-  <div class="form-grid cols-4" id="filters"></div>
-
-  <div style="display:flex;align-items:flex-end;gap:12px;margin-top:12px;">
-    <div>
-      <label>تعداد در صفحه</label>
-      <select id="perPage">
-        <option>20</option><option>50</option><option>100</option>
-      </select>
+    <div class="tabs" style="margin-bottom:18px;">
+      <button class="active" data-tab="factories">کارخانه‌ها</button>
+      <button data-tab="source">ثبت منبع</button>
+      <button data-tab="tech">مسئول فنی</button>
+      <button data-tab="irc">IRC</button>
     </div>
-    <button id="searchBtn" class="btn" type="button" style="margin-top:24px;">جستجو</button>
-  </div>
-</section>
 
-<section class="surface">
-  <h2>نتایج</h2>
-  <div id="results"></div>
-</section>
+    <div class="form-grid cols-4" id="filters">
+      <div>
+        <label for="name">نام شرکت</label>
+        <input type="text" id="name" placeholder="نام شرکت...">
+      </div>
+      <div>
+        <label for="national_id">شناسه ملی</label>
+        <input type="text" id="national_id" placeholder="شناسه ملی...">
+      </div>
+      <div>
+        <label for="city">شهر</label>
+        <select id="city">
+          <option value="">انتخاب شهر</option>
+          <option>تهران</option>
+          <option>مازندران</option>
+          <option>البرز</option>
+        </select>
+      </div>
+      <div>
+        <label for="status">وضعیت</label>
+        <select id="status">
+          <option value="">انتخاب وضعیت</option>
+          <option>فعال</option>
+          <option>غیرفعال</option>
+        </select>
+      </div>
+    </div>
 
-<footer class="footer-copy">
-  <div>© ۱۴۰۴ دانشگاه علوم پزشکی مازندران – تمامی حقوق مادی و معنوی سامانه مدیریت نظارت بر مواد غذایی، آرایشی و بهداشتی محفوظ است.</div>
-  <div>طراحی و توسعه: مهندس مهدی خدادادی سلوط</div>
-</footer>
+    <div style="display:flex;align-items:flex-end;gap:14px;margin-top:18px;">
+      <div>
+        <label>تعداد در صفحه</label>
+        <select id="perPage" class="select-box">
+          <option>20</option><option>50</option><option>100</option>
+        </select>
+      </div>
+      <button id="searchBtn" class="btn" type="button">جستجو</button>
+    </div>
+  </section>
 
-<script type="module" src="../assets/js/ui-common.js"></script>
-<script type="module" src="../assets/js/search.js"></script>
+  <section class="surface">
+    <h2>نتایج</h2>
+    <div id="results"></div>
+  </section>
+
+  <!-- فوتر از فایل مشترک -->
+  <div id="footer"></div>
+
+  <script type="module" src="/assets/js/ui-common.js"></script>
+  <script type="module" src="/assets/js/search.js"></script>
+  <script>
+    function loadComponent(id, url) {
+      fetch(url)
+        .then(resp => resp.text())
+        .then(html => document.getElementById(id).innerHTML = html)
+        .catch(() => document.getElementById(id).innerHTML = "<div style='color:red;'>مشکل بارگذاری...</div>");
+    }
+    loadComponent('navbar', '/pages/navbar.html');
+    loadComponent('footer', '/pages/footer.html');
+  </script>
 </body>
 </html>
