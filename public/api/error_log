@@ -362,3 +362,39 @@ Stack trace:
 Stack trace:
 #0 {main}
   thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 43
+[26-Sep-2025 20:43:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function execute() on bool in /home/kancir/cosmetics.kanc.ir/public/api/search_source.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/search_source.php on line 50
+[26-Sep-2025 21:09:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 20
+[26-Sep-2025 21:09:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 20
+[26-Sep-2025 21:09:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 20
+[26-Sep-2025 21:09:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 20
+[26-Sep-2025 21:09:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 20
+[26-Sep-2025 21:09:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 20
+[26-Sep-2025 21:09:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 20
+[26-Sep-2025 21:09:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/kancir/cosmetics.kanc.ir/public/api/whitelist.php on line 20

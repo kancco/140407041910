@@ -2,32 +2,93 @@
 <html lang="fa" dir="rtl" class="vf-on">
 <head>
   <meta charset="UTF-8">
-  <title>وایت‌لیست شرکت‌ها</title>
+  <title>وایت‌لیست شرکت‌های تولیدی</title>
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <link rel="preload" href="/assets/fonts/Vazirmatn[wght].woff2" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="/assets/css/theme-typography.css?v=1">
-  <link rel="stylesheet" href="/assets/css/header-footer.css">
-  <link rel="stylesheet" href="/assets/css/search-modern.css">
+  <link rel="stylesheet" href="/assets/css/header-footer.css?v=1">
+  <link rel="stylesheet" href="/assets/css/search-modern.css?v=1">
+  <style>
+    /* استایل اختصاصی برای جدول و ورودی جستجو */
+    .wl-table th, .wl-table td {
+      padding: 9px 10px;
+      border-bottom: 1px solid #eee;
+      text-align: right;
+    }
+    .wl-table thead {
+      background: linear-gradient(to left,#e3eafc,#f5fafd);
+    }
+    .wl-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 10px;
+      font-size: 15px;
+    }
+    .wl-search-row {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      margin-bottom: 12px;
+    }
+    #wl-q {
+      flex: 1;
+      background: #f3f7fd;
+      border: 1.5px solid #c7d7ee;
+      border-radius: 8px;
+      font-size: 15px;
+      padding: 10px 13px;
+    }
+    #wl-search {
+      min-width: 90px;
+      border-radius: 8px;
+      background: linear-gradient(to right,#c7d7ee,#f3f7fd);
+      border: none;
+      font-size: 15px;
+      cursor: pointer;
+    }
+    .lead {
+      color: #5a6699;
+      margin-bottom: 12px;
+      font-size: 15px;
+    }
+    .gradient-text {
+      background: linear-gradient(90deg,#4562b5,#aab6e6 70%);
+      color: transparent;
+      -webkit-background-clip: text;
+      background-clip: text;
+      font-weight: bold;
+      font-size: 2rem;
+      margin-bottom: 3px;
+    }
+    @media(max-width:600px){
+      .wl-table th, .wl-table td {
+        font-size: 13px;
+        padding: 6px 4px;
+      }
+      .gradient-text { font-size: 1.2rem; }
+      #wl-search { font-size: 13px; }
+      #wl-q { font-size: 13px; }
+    }
+  </style>
 </head>
 <body>
-  <!-- منوی بالا از فایل مشترک -->
+  <!-- بارگذاری منو بالا -->
   <div id="navbar"></div>
 
   <section class="surface">
-    <h1 class="gradient-text">وایت‌لیست</h1>
-    <p class="lead">لیست شرکت‌های مجاز. این داده برای پذیرش رکوردهای دیگر (OR بر شناسه یا نام) استفاده می‌شود.</p>
-    <div style="display:flex;gap:10px;flex-wrap:wrap;margin-bottom:10px;">
-      <input type="text" id="wl-q" placeholder="جستجو نام / شهر ..." style="flex:1; background:#f3f7fd; border:1.5px solid #c7d7ee; border-radius:8px; font-size:15px; padding:10px 13px;">
-      <button id="wl-search" class="btn" type="button">جستجو</button>
+    <h1 class="gradient-text">وایت‌لیست شرکت‌های تولیدی</h1>
+    <p class="lead">لیست شرکت‌های مجاز برای پذیرش رکوردهای جدید. می‌توانید بر اساس نام شرکت یا مدیر جستجو کنید.</p>
+    <div class="wl-search-row">
+      <input type="text" id="wl-q" placeholder="جستجو نام شرکت یا مدیر ..." autocomplete="off" />
+      <button id="wl-search" type="button">جستجو</button>
     </div>
     <div id="wl-results"></div>
   </section>
 
-  <!-- فوتر از فایل مشترک -->
+  <!-- بارگذاری فوتر -->
   <div id="footer"></div>
 
-  <script type="module" src="/assets/js/ui-common.js"></script>
-  <script type="module" src="/assets/js/whitelist.js"></script>
+  <!-- بارگذاری منو و فوتر از فایل‌های مشترک -->
   <script>
     function loadComponent(id, url) {
       fetch(url)
@@ -38,5 +99,7 @@
     loadComponent('navbar', '/pages/navbar.html');
     loadComponent('footer', '/pages/footer.html');
   </script>
+
+  <script type="module" src="/assets/js/whitelist.js"></script>
 </body>
 </html>

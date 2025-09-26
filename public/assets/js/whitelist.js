@@ -1,39 +1,48 @@
-import {toast,qs} from './ui-common.js';
+export async function fetchWhitelist(query = "") {
+  let url = "/api/whitelist.php";
+  if (query) url += "?q=" + encodeURIComponent(query);
+  let res = await fetch(url);
+  let list;
+  try {
+    list = await res.json();
+  } catch(e) {
+    document.getElementById("wl-results").innerHTML = "<div style='color:red'>خطا در دریافت اطلاعات یا خروجی JSON ندارد</div>";
+    return;
+  }
+  if(!Array.isArray(list) || list.length === 0){
+    document.getElementById("wl-results").innerHTML = "<div style='color:red'>داده‌ای یافت نشد</div>";
+    return;
+  }
+  let html = `<div class="table-responsive" style="margin-top:18px;">
+    <table class="modern-table wl-table">
+      <thead>
+        <tr>
+          <th>شناسه ملی</th>
+          <th>نام سایت تولیدی</th>
+          <th>نوع صنعت تولیدی</th>
+          <th>نوع سایت تولیدی</th>
+          <th>نام مدیر</th>
+        </tr>
+      </thead>
+      <tbody>`;
+  for (const company of list) {
+    html += `<tr>
+      <td>${company.national_id || "-"}</td>
+      <td>${company.factory_name_fa || "-"}</td>
+      <td>${company.manufacturing_industry_type || "-"}</td>
+      <td>${company.production_site_type || "-"}</td>
+      <td>${company.manager_name_fa || "-"}</td>
+    </tr>`;
+  }
+  html += `</tbody></table></div>`;
+  document.getElementById("wl-results").innerHTML = html;
+}
 
-async function loadWL(){
-  qs('#wl-results').innerHTML='<div style="padding:14px;font-size:13px;color:#777;">در حال دریافت...</div>';
-  const q=qs('#wl-q').value.trim();
-  const params=new URLSearchParams();
-  params.append('per_page','50');
-  if(q) params.append('q',q);
-  try{
-    const res=await fetch('../api/search_factories.php?'+params.toString());
-    const js=await res.json();
-    render(js);
-  }catch(e){
-    toast('خطا در دریافت وایت لیست','error');
-  }
-}
-function render(data){
-  let html='<table class="table-clean"><thead><tr>';
-  ['نام','شناسه','شهر','مدیرعامل'].forEach(h=> html+='<th>'+h+'</th>');
-  html+='</tr></thead><tbody>';
-  if(!data.rows || !data.rows.length){
-    html+='<tr><td colspan="4" style="text-align:center;color:#777;font-size:13px;">موردی یافت نشد</td></tr>';
-  }else{
-    data.rows.forEach(r=>{
-      html+='<tr>';
-      html+='<td>'+(r.factory_name_fa||'-')+'</td>';
-      html+='<td>'+(r.national_id||'-')+'</td>';
-      html+='<td>'+(r.city_name||'-')+'</td>';
-      html+='<td>'+(r.manager_name_fa||'-')+'</td>';
-      html+='</tr>';
-    });
-  }
-  html+='</tbody></table>';
-  qs('#wl-results').innerHTML=html;
-}
-document.addEventListener('DOMContentLoaded',()=>{
-  qs('#wl-search').addEventListener('click',()=>{ loadWL(); });
-  loadWL();
+// اجرای اولیه و اتصال به سرچ‌باکس
+document.getElementById("wl-search").onclick = () => {
+  fetchWhitelist(document.getElementById("wl-q").value);
+};
+document.getElementById("wl-q").addEventListener("keydown", e => {
+  if (e.key === "Enter") fetchWhitelist(e.target.value);
 });
+fetchWhitelist();
